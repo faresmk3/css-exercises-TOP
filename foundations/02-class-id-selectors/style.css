@@ -1,0 +1,19 @@
+.paragraph {
+  background-color: lightpink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#one {
+  color: blue;
+  font-size: 36px;
+}
+
+.paragraph.cooler {
+  font-size: 24px;
+}
+
+#another-one {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
