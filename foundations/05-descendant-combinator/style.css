@@ -7,7 +7,16 @@ div p {
 }
 */
 
+/*
 .container .text {
+  background-color: rgb(243, 255, 24);
+  color: rgb(250, 0, 0);
+  font-size: 20px;
+  text-align: center;
+}
+*/
+
+div .text {
   background-color: rgb(243, 255, 24);
   color: rgb(250, 0, 0);
   font-size: 20px;
